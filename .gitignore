@@ -1,0 +1,7 @@
+*.*~
+*.tf~
+*.swp
+Thumbs.db
+terraform.tfstate
+terraform.tfstate.backup
+*.disabled
